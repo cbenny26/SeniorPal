@@ -39,6 +39,6 @@ I have learned about deep learning and computer vision techniques. I have also u
 I aim to incorporate various other features that could benefit these people. Such as correcting their posture while performing various tests (blood test, pressure check etc). If these tests are not taken in the correct posture, the outputs might vary and this might introduce a reason for another depression!  I’m also planning to implement a feature to help them to take shots accurately. Often these people have to take injections like insulin on their own. With the help of machine learning, we can instruct the users to find the accurate place, where the shots are supposed to be given.
 
 ## Link to Video
-[SeniorPal](Paste link here)
+[SeniorPal]https://youtu.be/-E6pYCWnoTs
 
 
